@@ -1,7 +1,7 @@
 import os
 import shutil
 
-source_folder = "sample"
+source_folder = r"C:\Users\aktha\OneDrive\Desktop\SQL"
 
 file_types = {
     ".jpg": "Images",

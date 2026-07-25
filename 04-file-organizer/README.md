@@ -86,7 +86,7 @@ PDFs/
 ## Screenshot
 
 <p align="center">
-<img src="screenshot.png" width="700">
+<img src="Organized file.png" width="700">
 </p>
 
 ---

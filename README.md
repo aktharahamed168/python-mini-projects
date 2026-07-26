@@ -36,7 +36,7 @@ The goal is to improve problem-solving skills by building real-world application
 | 02 | QR Code Generator | ✅ |
 | 03 | Expense Tracker | ✅ |
 | 04 | File Organizer | ✅ |
-| 05 | Bulk File Renamer | ⏳ |
+| 05 | Bulk File Renamer | ✅ |
 | 06 | BMI Calculator | ⏳ |
 | 07 | Age Calculator | ⏳ |
 | 08 | Weather App | ⏳ |

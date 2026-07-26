@@ -73,14 +73,17 @@ image5.jpg → Vacation_5.jpg
 ## Screenshot
 
 <p align="center">
+  Before Rename
   <img src="Before Rename.png" width="700">
 </p>
 
 <p align="center">
+  After Rename
   <img src="After Rename.png" width="700">
 </p>
 
 <p align="center">
+  Result
   <img src="Result.png" width="700">
 </p>
 

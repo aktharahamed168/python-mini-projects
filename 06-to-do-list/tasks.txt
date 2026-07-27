@@ -1,1 +1,2 @@
-
+Mail to the client
+add employee in manager table

@@ -38,8 +38,8 @@ The goal is to improve problem-solving skills by building real-world application
 | 04 | File Organizer | ✅ |
 | 05 | Bulk File Renamer | ✅ |
 | 06 | BMI Calculator | ✅ |
-| 07 | Age Calculator | ⏳ |
-| 08 | Weather App | ⏳ |
+| 07 | Age Calculator | ✅ |
+| 08 | Weather App | ✅ |
 | 09 | Currency Converter | ⏳ |
 | 10 | URL Shortener | ⏳ |
 | 11 | Image Resizer | ⏳ |

@@ -37,31 +37,32 @@ The goal is to improve problem-solving skills by building real-world application
 | 03 | Expense Tracker | ✅ |
 | 04 | File Organizer | ✅ |
 | 05 | Bulk File Renamer | ✅ |
-| 06 | BMI Calculator | ✅ |
-| 07 | Age Calculator | ✅ |
-| 08 | Weather App | ✅ |
-| 09 | Currency Converter | ⏳ |
-| 10 | URL Shortener | ⏳ |
-| 11 | Image Resizer | ⏳ |
-| 12 | PDF Merger | ⏳ |
-| 13 | PDF Splitter | ⏳ |
-| 14 | Email Validator | ⏳ |
-| 15 | Password Strength Checker | ⏳ |
-| 16 | Text to Speech | ⏳ |
-| 17 | Speech to Text | ⏳ |
-| 18 | Clipboard Manager | ⏳ |
-| 19 | System Information | ⏳ |
-| 20 | Log Analyzer | ⏳ |
-| 21 | CSV Analyzer | ⏳ |
-| 22 | JSON Formatter | ⏳ |
-| 23 | Web Scraper | ⏳ |
-| 24 | YouTube Downloader | ⏳ |
-| 25 | Image to PDF | ⏳ |
-| 26 | Screenshot Tool | ⏳ |
-| 27 | Wi-Fi QR Generator | ⏳ |
-| 28 | GitHub Profile Finder | ⏳ |
-| 29 | AI Resume Analyzer | ⏳ |
-| 30 | AI Chatbot | ⏳ |
+| 06 | To-Do List | ✅ |
+| 07 | Weather App | ✅ |
+| 08 | BMI Calculator | ⏳ |
+| 09 | Age Calculator | ⏳ |
+| 10 | Currency Converter | ⏳ |
+| 11 | URL Shortener | ⏳ |
+| 12 | Image Resizer | ⏳ |
+| 13 | PDF Merger | ⏳ |
+| 14 | PDF Splitter | ⏳ |
+| 15 | Email Validator | ⏳ |
+| 16 | Password Strength Checker | ⏳ |
+| 17 | Text to Speech | ⏳ |
+| 18 | Speech to Text | ⏳ |
+| 19 | Clipboard Manager | ⏳ |
+| 20 | System Information | ⏳ |
+| 21 | Log Analyzer | ⏳ |
+| 22 | CSV Analyzer | ⏳ |
+| 23 | JSON Formatter | ⏳ |
+| 24 | Web Scraper | ⏳ |
+| 25 | YouTube Downloader | ⏳ |
+| 26 | Image to PDF | ⏳ |
+| 27 | Screenshot Tool | ⏳ |
+| 28 | Wi-Fi QR Generator | ⏳ |
+| 29 | GitHub Profile Finder | ⏳ |
+| 30 | AI Resume Analyzer | ⏳ |
+| 31 | AI Chatbot | ⏳ |
 
 ---
 

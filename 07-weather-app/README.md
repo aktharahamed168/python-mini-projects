@@ -80,7 +80,7 @@ Wind Speed: 5.2 m/s
 ## Screenshot
 
 <p align="center">
-  <img src="screenshot.png" width="700">
+  <img src="weather result.png" width="700">
 </p>
 
 ---

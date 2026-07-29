@@ -72,7 +72,7 @@ Category: Normal Weight
 ## Screenshot
 
 <p align="center">
-  <img src="screenshot.png" width="700">
+  <img src="BMI_calculator.png" width="700">
 </p>
 
 ---

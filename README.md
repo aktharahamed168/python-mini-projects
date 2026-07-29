@@ -39,7 +39,7 @@ The goal is to improve problem-solving skills by building real-world application
 | 05 | Bulk File Renamer | ✅ |
 | 06 | To-Do List | ✅ |
 | 07 | Weather App | ✅ |
-| 08 | BMI Calculator | ⏳ |
+| 08 | BMI Calculator | ✅ |
 | 09 | Age Calculator | ⏳ |
 | 10 | Currency Converter | ⏳ |
 | 11 | URL Shortener | ⏳ |

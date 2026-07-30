@@ -72,7 +72,7 @@ You are 24 years old.
 ## Screenshot
 
 <p align="center">
-  <img src="screenshot.png" width="700">
+  <img src="Age_calculator.png" width="700">
 </p>
 
 ---

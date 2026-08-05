@@ -77,7 +77,7 @@ Saved as resized_sample.jpg
 ## Screenshot
 
 <p align="center">
-<img src="screenshot.png" width="700">
+<img src="Image_Resizer.png" width="700">
 </p>
 
 ---

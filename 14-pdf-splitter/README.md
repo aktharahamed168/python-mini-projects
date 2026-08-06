@@ -76,7 +76,7 @@ Successfully split 5 pages.
 </p>
 
 <p align="center">
-<img src="pdf_splitter_output" width="700">
+<img src="pdf_splitter_output.png" width="700">
 </p>
 
 ---

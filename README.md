@@ -46,7 +46,7 @@ The goal is to improve problem-solving skills by building real-world application
 | 12 | Image Resizer | ✅ |
 | 13 | PDF Merger | ✅ |
 | 14 | PDF Splitter | ✅ |
-| 15 | Email Validator | ⏳ |
+| 15 | Email Validator | ✅ |
 | 16 | Password Strength Checker | ⏳ |
 | 17 | Text to Speech | ⏳ |
 | 18 | Speech to Text | ⏳ |

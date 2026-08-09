@@ -84,7 +84,7 @@ Text converted to speech successfully!
 ## Screenshot
 
 <p align="center">
-  <img src="screenshot.png" width="700">
+  <img src="txt_to_speech.png" width="700">
 </p>
 
 ---

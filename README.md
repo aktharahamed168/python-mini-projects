@@ -48,7 +48,7 @@ The goal is to improve problem-solving skills by building real-world application
 | 14 | PDF Splitter | ✅ |
 | 15 | Email Validator | ✅ |
 | 16 | Password Strength Checker | ✅ |
-| 17 | Text to Speech | ⏳ |
+| 17 | Text to Speech | ✅ |
 | 18 | Speech to Text | ⏳ |
 | 19 | Clipboard Manager | ⏳ |
 | 20 | System Information | ⏳ |

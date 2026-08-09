@@ -1,5 +1,14 @@
 import pyttsx3
 
+# To save as MP3
+# def text_to_speech(text):
+#     engine = pyttsx3.init()
+
+#     engine.setProperty("rate", 150)
+#     engine.setProperty("volume", 1.0)
+
+#     engine.save_to_file(text, "output.mp3")
+#     engine.runAndWait()
 
 def text_to_speech(text):
     engine = pyttsx3.init()

@@ -90,7 +90,7 @@ Enter your choice: 2
 ## Screenshot
 
 <p align="center">
-  <img src="screenshot.png" width="700">
+  <img src="clipboard_manager.png" width="700">
 </p>
 
 ---

@@ -85,7 +85,7 @@ Errors Found
 ## Screenshot
 
 <p align="center">
-  <img src="screenshot.png" width="700">
+  <img src="log-analyzer.png" width="700">
 </p>
 
 ---

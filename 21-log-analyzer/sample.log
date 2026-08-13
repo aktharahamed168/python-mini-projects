@@ -1,1 +1,15 @@
-
+2026-08-13 09:15:21 INFO User logged in
+2026-08-13 09:16:05 INFO Dashboard opened
+2026-08-13 09:18:42 WARNING Failed login attempt
+2026-08-13 09:20:13 ERROR Database connection failed
+2026-08-13 09:22:31 INFO User logged in
+2026-08-13 09:25:17 INFO File uploaded
+2026-08-13 09:27:44 ERROR File upload failed
+2026-08-13 09:30:12 WARNING Invalid input received
+2026-08-13 09:32:56 INFO User logged out
+2026-08-13 09:35:22 ERROR Database connection failed
+2026-08-13 09:38:10 INFO User logged in
+2026-08-13 09:40:45 WARNING Failed login attempt
+2026-08-13 09:43:19 INFO Dashboard opened
+2026-08-13 09:45:33 ERROR Server unavailable
+2026-08-13 09:48:01 INFO User logged out

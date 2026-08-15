@@ -1,1 +1,14 @@
-
+{
+    "name": "Akthar",
+    "role": "AI Engineer",
+    "skills": [
+        "Python",
+        "SQL",
+        "Machine Learning",
+        "Generative AI"
+    ],
+    "projects": {
+        "completed": 22,
+        "current": "JSON Formatter"
+    }
+}

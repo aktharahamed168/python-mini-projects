@@ -55,7 +55,7 @@ The goal is to improve problem-solving skills by building real-world application
 | 21 | Log Analyzer | ✅ |
 | 22 | CSV Analyzer | ✅ |
 | 23 | JSON Formatter | ✅ |
-| 24 | Web Scraper | ⏳ |
+| 24 | Web Scraper | ✅ |
 | 25 | YouTube Downloader | ⏳ |
 | 26 | Image to PDF | ⏳ |
 | 27 | Screenshot Tool | ⏳ |

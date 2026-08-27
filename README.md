@@ -58,7 +58,7 @@ The goal is to improve problem-solving skills by building real-world application
 | 24 | Web Scraper | ✅ |
 | 25 | Image-to-pdf | ✅|
 | 26 | Duplicate File Finder | ✅ |
-| 27 | Screenshot Tool | ⏳ |
+| 27 | Screenshot Tool | ✅ |
 | 28 | Wi-Fi QR Generator | ⏳ |
 | 29 | GitHub Profile Finder | ⏳ |
 | 30 | AI Resume Analyzer | ⏳ |

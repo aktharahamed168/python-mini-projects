@@ -123,7 +123,7 @@ Saved to: screenshots\screenshot_20260827_114000.png
 ## Screenshot
 
 <p align="center">
-  <img src="screenshot.png" width="700">
+  <img src="Screenshot_tool.png" width="700">
 </p>
 
 ---
